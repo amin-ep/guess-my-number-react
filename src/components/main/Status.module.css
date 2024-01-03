@@ -1,0 +1,26 @@
+.message {
+  margin-bottom: 4rem;
+}
+p {
+  font-size: 2rem;
+  line-height: 2.5;
+}
+
+@media (max-width: 992px) {
+  .message {
+    margin-bottom: 3rem;
+  }
+  p {
+    font-size: 1.5rem;
+  }
+}
+
+@media (max-width: 468px) {
+  .message {
+    margin-bottom: 2rem;
+  }
+
+  p {
+    font-size: 1rem;
+  }
+}
