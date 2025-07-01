@@ -1,6 +1,6 @@
 ## View Demo
 
-![Demo](https://guess-my-number-delta-ten.vercel.app/)
+[Demo](https://guess-my-number-delta-ten.vercel.app)
 
 ## Screenshot
 
